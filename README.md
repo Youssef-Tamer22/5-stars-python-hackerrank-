@@ -1,6 +1,6 @@
 # HackerRank – Python Solutions
  
-Python 3 solutions to 23 challenges from HackerRank's **Python** domain (Introduction, Basic Data Types, Strings, Sets, and Collections), collected in [`hackerrank-python-solutions.md`](./hackerrank-python-solutions.md).
+Python 3 solutions to 23 challenges from HackerRank's **Python** domain (Introduction, Basic Data Types, Strings, Sets, and Collections).
  
 ## About this repo
  
